@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhimanyuAjudiya
 - 👀 I’m interested in Development of computer science
-- 🌱 I’m currently learning The Complete 2022 Web Development Bootcamp  
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 How to reach me abhimanyuajudiya@gmail.com
 
 <!---
