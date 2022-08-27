@@ -1,7 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=abhimanyuajudiya&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyuajudiya" /> </p>
 <h1 align="center">Hi 👋, I'm Abhimanyu Ajudiya</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimanyuajudiya&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyuajudiya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhimanyuajudiya" alt="abhimanyuajudiya" /></a> </p>
 
 - 👋 Hi, I’m @AbhimanyuAjudiya
 
@@ -10,6 +8,8 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **abhimanyuajudiya@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhimanyuajudiya&show_icons=true&locale=en" alt="abhimanyuajudiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhimanyuajudiya&" alt="abhimanyuajudiya" /></p>
+
