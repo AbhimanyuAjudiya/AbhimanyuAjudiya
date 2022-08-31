@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abhimanyuajudiya&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyuajudiya" /> </p>
 <h1 align="center">Hi 👋, I'm Abhimanyu Ajudiya</h1>
 
-- 👋 Hi, I’m @AbhimanyuAjudiya
+- 👋 Hi, I’m @AbhimanyuAjudiya 
 
 - 👀 I’m interested in Development of computer science
 
