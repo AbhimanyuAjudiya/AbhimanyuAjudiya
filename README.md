@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @AbhimanyuAjudiya 
 
-- 👀 I’m interested in Development of computer science
+- 👀 I’m interested in Development of computer science 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
  
