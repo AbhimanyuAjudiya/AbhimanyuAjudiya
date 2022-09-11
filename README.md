@@ -28,7 +28,7 @@
 <br></br>
 ## Recent Languages
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhimanyuajudiya&show_icons=true&locale=en&layout=compact" alt="abhimanyuajudiya" /></p>
-</br>
+
 ##  Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhimanyuAjudiya&show_icons=true&theme=vuw&hide=prs,contribs)
 
