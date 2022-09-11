@@ -10,6 +10,10 @@
 - 📫 How to reach me **abhimanyuajudiya@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=AbhimanyuAjudiya&label=Profile%20views&color=0e75b6&style=plastic" alt="AbhimanyuAjudiya" /> 
+</p>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,3 +33,8 @@
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhimanyuajudiya&" alt="abhimanyuajudiya" /></p>
 
+<br></br>
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/AbhimanyuAjudiya"><img alt="Abhimanyu Ajudiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbhimanyuAjudiya&custom_title=Abhimanyu%20Ajudiya's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
