@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhimanyu Ajudiya</h1>
 
-- 👋 Hi, I’m @AbhimanyuAjudiya 
+- 👋 Hi, I’m @AbhimanyuAjudiya  
 
 - 👀 I’m interested in Development of computer science 
  
