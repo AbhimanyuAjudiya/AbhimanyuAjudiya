@@ -33,10 +33,11 @@
 
 ## Recent Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhimanyuAjudiya&hide=jupyter%20notebook&hide_title=true)](https://github.com/Priyeshchikhaliya/github-readme-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhimanyuAjudiya&hide=jupyter%20notebook&hide_title=true" alt="AbhimanyuAjudiya" /></p>
+
 <br></br>
 
-##  Github Stats
+##  Github Stats & Recent Languages
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbhimanyuAjudiya&show_icons=true&theme=vuw&hide=prs" alt="AbhimanyuAjudiya" /></p>
 
 
@@ -49,5 +50,5 @@
 </br>
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/AbhimanyuAjudiya"><img alt="Abhimanyu Ajudiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbhimanyuAjudiya&custom_title=Abhimanyu%20Ajudiya's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a align="center" href="https://github.com/AbhimanyuAjudiya"><img alt="Abhimanyu Ajudiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbhimanyuAjudiya&custom_title=Abhimanyu%20Ajudiya's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
