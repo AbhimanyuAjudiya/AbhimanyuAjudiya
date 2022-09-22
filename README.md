@@ -37,7 +37,8 @@
 <br></br>
 
 ##  Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhimanyuAjudiya&show_icons=true&theme=vuw&hide=prs,contribs)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbhimanyuAjudiya&show_icons=true&theme=vuw&hide=prs" alt="AbhimanyuAjudiya" /></p>
+
 
 <br></br>
 
