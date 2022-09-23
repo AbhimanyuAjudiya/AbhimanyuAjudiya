@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhimanyu Ajudiya</h1> 
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi!;I+am+a+Web+Developer%20;And+a+student;Currently+working+on+my+DSA+skills;Always%20ready%20to%20go%20for%20new%20tech..;Thank+you+for+visiting!!;&size=30&color=49FF00&center=true&width=650&height=50"></a> 
-    
+
 </p>
 
 - 👋 Hi, I’m @AbhimanyuAjudiya  
