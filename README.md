@@ -4,7 +4,7 @@
 
 </p>
 
-- 👋 Hi, I’m @AbhimanyuAjudiya  
+- 👋 Hi, I’m @AbhimanyuAjudiya   
 
 - 👀 I’m interested in Development of computer science 
   
