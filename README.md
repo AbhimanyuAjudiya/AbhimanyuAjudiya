@@ -52,7 +52,3 @@
   <br/>
    <a align="center" href="https://github.com/AbhimanyuAjudiya"><img alt="Abhimanyu Ajudiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbhimanyuAjudiya&custom_title=Abhimanyu%20Ajudiya's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
-## Snake eating my contribution
-
-![snake gif](https://github.com/AbhimanyuAjudiya/AbhimanyuAjudiya/blob/output/github-contribution-grid-snake.gif)
