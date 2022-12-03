@@ -46,12 +46,12 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhimanyuAjudiya&theme=algolia" alt="AbhimanyuAjudiya" /></p>
 <br>
-
+<!--
 </br>
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a align="center" href="https://github.com/AbhimanyuAjudiya"><img alt="Abhimanyu Ajudiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbhimanyuAjudiya&custom_title=Abhimanyu%20Ajudiya's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-  
+  -->
 ## Snake Eating My Contributions
   ![snake gif](https://github.com/AbhimanyuAjudiya/AbhimanyuAjudiya/blob/output/github-contribution-grid-snake.svg)
