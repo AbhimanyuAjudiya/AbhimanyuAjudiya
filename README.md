@@ -4,7 +4,7 @@
    
 </p>
  
-- 👋 Hi, I’m @AbhimanyuAjudiya   
+- 👋 Hi, I’m Abhimanyu Ajudiya but call me **Abhi**
 
 - 👀 I’m interested in Development of computer science 
   
