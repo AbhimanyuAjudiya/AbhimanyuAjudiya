@@ -1,6 +1,10 @@
+<p align="right">  
+	<img src="https://komarev.com/ghpvc/?username=AbhimanyuAjudiya&label=Profile%20views&color=0e75b6&style=plastic" alt="AbhimanyuAjudiya" /> 
+</p>
+   
 <h1 align="center">Hi 👋, I'm Abhimanyu Ajudiya</h1> 
 <p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi!;I+am+a+Web+Developer%20;And+a+student;Currently+working+on+my+DSA+skills;Always%20ready%20to%20go%20for%20new%20tech..;Thank+you+for+visiting!!;&size=30&color=49FF00&center=true&width=650&height=50"></a> 
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi!;I+am+a+Developer%20;And+a+student;Currently+working+on+my+DSA+skills;Always%20ready%20to%20go%20for%20new%20tech..;Thank+you+for+visiting!!;&size=30&color=49FF00&center=true&width=650&height=50"></a> 
      
 </p>  
      
@@ -14,10 +18,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<p align="center">  
-	<img src="https://komarev.com/ghpvc/?username=AbhimanyuAjudiya&label=Profile%20views&color=0e75b6&style=plastic" alt="AbhimanyuAjudiya" /> 
-</p>
-   
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhimanyu_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhimanyu_2005" height="30" width="40" /></a>
@@ -36,23 +37,11 @@
 ##  🐍 Snake Eating My Contributions
 <img src = "https://github.com/AbhimanyuAjudiya/AbhimanyuAjudiya/blob/output/github-contribution-grid-snake.svg" />
 
-<br></br>
-
-## Recent Languages
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhimanyuAjudiya&hide=jupyter%20notebook&hide_title=true" alt="AbhimanyuAjudiya" /></p>
 
 <br></br>
 
 ##  Github Stats & Recent Languages
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbhimanyuAjudiya&show_icons=true&theme=vuw&hide=prs" alt="AbhimanyuAjudiya" /></p>
-
-
-<br></br>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhimanyuAjudiya&theme=algolia" alt="AbhimanyuAjudiya" /></p>
-<br></br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbhimanyuAjudiya&show_icons=true&theme=vuw&hide=prs" alt="AbhimanyuAjudiya" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhimanyuAjudiya&hide=jupyter%20notebook&hide_title=true" alt="AbhimanyuAjudiya" /></p>
 
 
 <!-- <summary><b>⚡ Recent GitHub Activity</b></summary> -->
