@@ -35,11 +35,7 @@
 
 
 ##  🐍 Snake Eating My Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AbhimanyuAjudiya/AbhimanyuAjudiya/blob/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AbhimanyuAjudiya/AbhimanyuAjudiya/blob/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/AbhimanyuAjudiya/AbhimanyuAjudiya/blob/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<img alt="github contribution grid snake animation" src="https://github.com/AbhimanyuAjudiya/AbhimanyuAjudiya/blob/output/github-contribution-grid-snake-dark.svg">
 
 <br></br>
 
