@@ -1,6 +1,6 @@
 <p align="right">  
 	<img src="https://komarev.com/ghpvc/?username=AbhimanyuAjudiya&label=Profile%20views&color=0e75b6&style=plastic" alt="AbhimanyuAjudiya" /> 
-</p>
+</p> 
 
 <h1 align="center">Hi 👋, I'm Abhimanyu Ajudiya</h1> 
 <p align="center"> 
