@@ -12,7 +12,7 @@
 
 - 👀 I’m interested in Development of computer science 
   
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Solana**
  
 - 📫 How to reach me **abhimanyuajudiya@gmail.com**
 
