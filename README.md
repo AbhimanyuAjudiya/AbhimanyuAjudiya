@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m Abhimanyu Ajudiya but call me **Abhi**
 
-- 👀 I’m interested in Development of computer science 
+- 👀 I’m interested in **WEB3**, AI/ML not yet explored... (loading...)
   
 - 🌱 I’m currently learning **Solana**
  
