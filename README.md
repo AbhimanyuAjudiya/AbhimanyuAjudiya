@@ -40,7 +40,7 @@
 <br></br>
 
 ##  Github Stats & Recent Languages
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhimanyuAjudiya&hide=jupyter%20notebook&hide_title=true" alt="AbhimanyuAjudiya" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhimanyuAjudiya&hide=jupyter%20notebook,Makefile&hide_title=true&layout=pie" alt="AbhimanyuAjudiya" /></p>
 
 
 <!-- <summary><b>⚡ Recent GitHub Activity</b></summary> -->
